@@ -1,5 +1,5 @@
 # IBM-Swift-zOS
-<b>Download</b> IBM® Toolkit for Swift on z/OS® Community Edition <b>at no cost</b> at the <a href="https://developer.ibm.com/mainframe/products/ibm-toolkit-swift-z-os/">Swift Mainframe Developer Center</a>.
+<b>Download</b> IBM® Toolkit for Swift on z/OS® Community Edition <b>at no cost</b> at the <a href="https://developer.ibm.com/mainframe/products/ibm-toolkit-swift-z-os/">Mainframe Developer Center</a>.
 
 <b>Have a question?</b>
 
